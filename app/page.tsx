@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 
 function whereToName(where: string): string {
   switch (where) {
-    case 'kjlb':
+    case 'kajilab':
       return '梶研究室';
     case 'sysken':
       return 'シス研';
