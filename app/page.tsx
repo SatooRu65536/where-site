@@ -8,6 +8,8 @@ function whereToName(where: string): string {
       return '梶研究室';
     case 'sysken':
       return 'シス研';
+    case 'home':
+      return '家';
     default:
       return 'その他';
   }
